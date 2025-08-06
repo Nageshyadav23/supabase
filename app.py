@@ -1,4 +1,4 @@
-# pip install psycopg2-binary flask_sqlalchmey
+# pip install psycopg2-binary flask_sqlalchmey : use %40 inplace of "@"
 
 from flask import Flask,jsonify,request
 from flask_sqlalchemy import SQLAlchemy
